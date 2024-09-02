@@ -8,6 +8,8 @@ h1 {
 }
 nav {
     font-size: 1.5em;
+    display: flex;
+    justify-content: center ;
 }
 
 ul,li {
@@ -16,5 +18,31 @@ ul,li {
     padding: 0;
 }
 
+/* @media (min-width: 600px) and (max-width: 800px){
+    h1 {
+        color: purple;
+    }
+}
+ */
 
+@media (max-width: 400px) {
+    h1{
+        color: red;
+    }
+}
+@media (max-width: 1000px) {
+    h1{
+        color: rgb(255, 102, 0);
+    }
+}
 
+@media (max-width: 768px ){
+    h1 {
+        font-size: 4em;
+    }
+}
+@media (max-width: 576px ){
+    h1 {
+        font-size: 3  em;
+    }
+}
