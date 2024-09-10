@@ -22,7 +22,7 @@ let newName = name;
 newName = 'Angel';
 
 let newPerson = person;
-newPerson.name = 'Olvera';
+newPerson.name = 'Atcel';
 
 console.log(name, newName);
 console.log(person, newPerson); 
