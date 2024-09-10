@@ -24,5 +24,7 @@ newName = 'Angel';
 let newPerson = person;
 newPerson.name = 'Atcel';
 
+let testing = newName;
+
 console.log(name, newName);
 console.log(person, newPerson); 
