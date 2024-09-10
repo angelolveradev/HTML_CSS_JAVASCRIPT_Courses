@@ -8,6 +8,16 @@ const person = {
   age: 40,
 };
 
+const person1 = {
+  name: 'Brad',
+  age: 40,
+};
+
+const perso2n = {
+  name: 'Brad',
+  age: 40,
+};
+
 let newName = name;
 newName = 'Angel';
 
