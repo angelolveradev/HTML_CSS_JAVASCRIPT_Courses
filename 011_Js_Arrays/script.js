@@ -5,7 +5,7 @@
 ///colors[2]; // "red"
 
 // They have a length:
-colors.length; //3
+//colors.length; //3
 
 // Important array methods:
 //push(value) - adds value to the END of an array
