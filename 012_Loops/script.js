@@ -18,5 +18,5 @@ console.log(10); */
 }*/
 
 //for (let v = 100; v>=0; v -= 10) {
-    console.log(v);
+//    console.log(v);
 }
