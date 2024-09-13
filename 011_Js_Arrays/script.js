@@ -2,7 +2,7 @@
 //const colors = ["red", "orange", "yellow","blue"];
 
 // Arrays are indexed like strings:
-colors[2]; // "red"
+///colors[2]; // "red"
 
 // They have a length:
 colors.length; //3
