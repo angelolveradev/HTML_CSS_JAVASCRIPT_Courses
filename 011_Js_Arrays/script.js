@@ -1,5 +1,5 @@
 // Making an array:
-const colors = ["red", "orange", "yellow","blue"];
+//const colors = ["red", "orange", "yellow","blue"];
 
 // Arrays are indexed like strings:
 colors[2]; // "red"
