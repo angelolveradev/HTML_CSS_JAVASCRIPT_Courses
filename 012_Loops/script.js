@@ -18,5 +18,5 @@ for (let u = 1; u<=6; u++){
 }
 
 for (let v = 100; v>=0; v -= 10) {
-//    console.log(v);
+    console.log(v);
 }
