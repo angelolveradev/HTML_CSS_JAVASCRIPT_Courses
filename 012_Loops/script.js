@@ -17,6 +17,6 @@ for (let u = 1; u<=6; u++){
     console.log('Da ba dee da ba daa');
 }
 
-//for (let v = 100; v>=0; v -= 10) {
+for (let v = 100; v>=0; v -= 10) {
 //    console.log(v);
 }
