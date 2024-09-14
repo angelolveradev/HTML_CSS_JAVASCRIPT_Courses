@@ -9,9 +9,9 @@ console.log(8);
 console.log(9);
 console.log(10);
 
-/*for (let i = 1; i<=10; i++){
+*for (let i = 1; i<=10; i++){
     console.log(i);
-}*/
+}
 
 /*for (let u = 1; u<=6; u++){
     console.log('Da ba dee da ba daa');
