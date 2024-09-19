@@ -3,3 +3,7 @@ function myFunction() {
 }
 
 myFunction();
+
+function avg(a,b) {
+    console.log((a+b)/2)
+} 
