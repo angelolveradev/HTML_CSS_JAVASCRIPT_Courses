@@ -9,5 +9,11 @@ function avg(a,b) {
 } 
 
 function greet(person){
-    console.log(`Hi, ${person}!`);
+    console.log(`Hi, ${person}!`)
 }
+
+function printHeart(){
+    console.log("<3")
+}
+
+printHeart();
