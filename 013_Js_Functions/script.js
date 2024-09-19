@@ -17,3 +17,9 @@ function printHeart(){
 }
 
 printHeart();
+
+function Rant(message){
+    for (let u=0; u<3; u++){ 
+    console.log(message.toUpperCase());
+    }
+}
