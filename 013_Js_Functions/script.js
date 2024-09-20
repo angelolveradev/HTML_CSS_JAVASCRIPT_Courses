@@ -12,9 +12,9 @@ function greet(person){
     console.log(`Hi, ${person}!`)
 }
 
-function printHeart(){
+/*function printHeart(){
     console.log("<3")
-}
+}*/
 
 printHeart();
 
