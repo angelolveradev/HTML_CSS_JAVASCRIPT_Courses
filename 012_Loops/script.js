@@ -15,18 +15,16 @@ for (let i = 1; i<=10; i++){
 
 for (let u = 1; u<=6; u++){
     console.log('Da ba dee da ba daa');
-}
 
 for (let v = 100; v>=0; v -= 10) {
     console.log(v);
-}*/
 
 let animals = ['gorila','lion','monkey'];
 
 
 for (let i=0; i<animals.length; i++){
     console.log(i, animals[i]);
-}
+}aa
 
 for (let i=animals.length-1; i>=0; i--){
     console.log(i, animals[i].toUpperCase());
