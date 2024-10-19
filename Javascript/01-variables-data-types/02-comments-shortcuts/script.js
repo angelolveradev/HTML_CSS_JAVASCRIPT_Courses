@@ -1,4 +1,4 @@
-//this a single liena of code we
+//this a single liena of code weee
 
 console.log(100);
 console.log("Hello World");
